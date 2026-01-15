@@ -5,7 +5,7 @@ version = "0.5.0"
 authors = ["zhrexx"]
 description = "Simple Library, Provides some simple yet useful functions"
 license = "MIT"
-homepage = "https://github.com/zhrexx/rust-zhrxxlib"
+repository = "https://github.com/zhrexx/rust-zhrxxlib"
 
 keywords = ["lib", "zhrxxgroup"]
 categories = ["command-line-utilities"]
